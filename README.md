@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-This repository holds codes of my NLP Practice
+This repository holds my NLP Practice  codes.
